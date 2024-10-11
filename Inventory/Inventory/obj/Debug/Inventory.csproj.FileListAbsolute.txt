@@ -1,0 +1,10 @@
+C:\Users\jinsa\source\repos\Inventory\Inventory\bin\Debug\Inventory.exe.config
+C:\Users\jinsa\source\repos\Inventory\Inventory\bin\Debug\Inventory.exe
+C:\Users\jinsa\source\repos\Inventory\Inventory\bin\Debug\Inventory.pdb
+C:\Users\jinsa\source\repos\Inventory\Inventory\obj\Debug\Inventory.csproj.AssemblyReference.cache
+C:\Users\jinsa\source\repos\Inventory\Inventory\obj\Debug\Inventory.frmAddProduct.resources
+C:\Users\jinsa\source\repos\Inventory\Inventory\obj\Debug\Inventory.Properties.Resources.resources
+C:\Users\jinsa\source\repos\Inventory\Inventory\obj\Debug\Inventory.csproj.GenerateResource.cache
+C:\Users\jinsa\source\repos\Inventory\Inventory\obj\Debug\Inventory.csproj.CoreCompileInputs.cache
+C:\Users\jinsa\source\repos\Inventory\Inventory\obj\Debug\Inventory.exe
+C:\Users\jinsa\source\repos\Inventory\Inventory\obj\Debug\Inventory.pdb
